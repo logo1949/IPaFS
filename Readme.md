@@ -2,9 +2,7 @@
 
 本项目是基于ipfs-api 的论文分享、查阅系统，利用最新的blockchain、IPFS以及智能合约技术进行实现。采用react设计前端框架，使用 mongodb作为数据存储后台。
 
-eth-ipfs 是 fork 的别人的项目 : [https://github.com/mcchan1/eth-ipfs，
-
-此项目需要先部署存储合约，并且把合约的abi和address替换到](https://github.com/mcchan1/eth-ipfs%EF%BC%8C%E6%AD%A4%E9%A1%B9%E7%9B%AE%E9%9C%80%E8%A6%81%E5%85%88%E9%83%A8%E7%BD%B2%E5%AD%98%E5%82%A8%E5%90%88%E7%BA%A6%EF%BC%8C%E5%B9%B6%E4%B8%94%E6%8A%8A%E5%90%88%E7%BA%A6%E7%9A%84abi%E5%92%8Caddress%E6%9B%BF%E6%8D%A2%E5%88%B0) src/storagehash.js中。
+eth-ipfs 是 fork 的别人的项目 : [https://github.com/mcchan1/eth-ipfs]( https://github.com/mcchan1/eth-ipfs)(此项目需要先部署存储合约，并且把合约的abi和address替换到[https://github.com/mcchan1/eth-ipfs%EF%BC%8C%E6%AD%A4%E9%A1%B9%E7%9B%AE%E9%9C%80%E8%A6%81%E5%85%88%E9%83%A8%E7%BD%B2%E5%AD%98%E5%82%A8%E5%90%88%E7%BA%A6%EF%BC%8C%E5%B9%B6%E4%B8%94%E6%8A%8A%E5%90%88%E7%BA%A6%E7%9A%84abi%E5%92%8Caddress%E6%9B%BF%E6%8D%A2%E5%88%B0](https://github.com/mcchan1/eth-ipfs%EF%BC%8C%E6%AD%A4%E9%A1%B9%E7%9B%AE%E9%9C%80%E8%A6%81%E5%85%88%E9%83%A8%E7%BD%B2%E5%AD%98%E5%82%A8%E5%90%88%E7%BA%A6%EF%BC%8C%E5%B9%B6%E4%B8%94%E6%8A%8A%E5%90%88%E7%BA%A6%E7%9A%84abi%E5%92%8Caddress%E6%9B%BF%E6%8D%A2%E5%88%B0)) src/storagehash.js中。
 
 路由系统采用单页面路由，借鉴的这个项目: <https://github.com/youngwind/mini-react-router>
 
